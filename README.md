@@ -13,7 +13,8 @@ Install dependencies, and run dev script (to build the chrome extension files)
 
 ```bash
 $ npm install   # install dependencies
-$ npm run dev   # webpack bundle every thing in src files to build folder
+$ npm run build # webpack bundle every thing in src files to build folder 
+$ npm run dev   # watch the src files change
 ```
 
 ## Add build folder to the chrome extension
